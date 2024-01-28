@@ -10,6 +10,7 @@ O código resolve o projeto com uma classe **Aleta()** com os métodos:
 + **obtemNomeAtleta()**, que retorna o nome do atleta
 + **obtemIdadeAtleta()**, que retorna a idade do atleta
 + **obtemPesoAtleta()**, que retorna o peso do atleta
++ **obtemAlturaAtleta()**, que retorna a altura do atleta
 + **obtemNotasAtleta()**, que retorna as notas do atleta
 + **obtemCategoria()**, que retorna a categoria do atleta
 + **obtemIMC()**, que retorna o IMC do atleta
