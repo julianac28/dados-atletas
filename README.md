@@ -27,7 +27,7 @@ O cálculo esperado da média na lista [ 10, 9.34, 8.42, 10, 7.88 ] é:
  * excluir o menor e maior valor [7.88, 10] 
  * somar os 3 valores restantes [8.42, 9.34, 10] 
  * retornar a média entre eles [8.42, 9.34, 10]/3
- * média 9,253333333333333`)
+ * média 9,253333333333333`
 
 ##### OBSERVAÇÃO CÁLCULO MÉDIA
 * lista original [ 10, 9.34, 8.42, 10, 7.88 ]
